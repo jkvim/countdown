@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "node-countdown": "^0.1.0",
-    "node-notifier": "^7.0.1"
+    "node-notifier": "^8.0.1"
   },
   "bin": {
     "countdown": "./bin/cli.js"
